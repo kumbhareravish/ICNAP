@@ -1,4 +1,4 @@
-# ICNAP
+# ICNAP - Time Series Classification and Regression using Transformers
 
 This repo contains code for Time Series Classification and Regression using Transformers
 
